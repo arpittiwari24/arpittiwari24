@@ -1,12 +1,12 @@
 Hi 👋 My name is Arrpit Tiwari
 ==============================
 
-Web Development || DevOps || Golang
+Web Development
 -----------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [atofficial2410@gmail.com](mailto:atofficial2410@gmail.com)
-* 🧠  I'm learning DevOps Tools and Methodologies as well as Golang
+
 
 
 ### Socials
