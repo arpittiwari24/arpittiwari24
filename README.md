@@ -6,7 +6,7 @@ Web Development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [atofficial2410@gmail.com](mailto:atofficial2410@gmail.com)
-* Currently Building :  https://quixiestream.vercel.app
+* Built :  https://lyricist-ten.vercel.app/ 
 
 
 
