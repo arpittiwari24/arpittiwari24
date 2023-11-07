@@ -6,8 +6,8 @@ Web Development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [atofficial2410@gmail.com](mailto:atofficial2410@gmail.com)
-       My Projects -   https://lyricist-ten.vercel.app/    
-                       https://petite-x.vercel.app/
+* My Projects -   https://lyricist-ten.vercel.app/    
+                  https://petite-x.vercel.app/
 
 
 ## 🌐 Socials:
