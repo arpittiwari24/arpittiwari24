@@ -1,7 +1,7 @@
 Hi 👋 My name is Arrpit Tiwari
 ==============================
 
-Web Development
+Full Stack Deeveloper at MissionElixir
 -----------------------------------
 
 * 🌍  I'm based in India
