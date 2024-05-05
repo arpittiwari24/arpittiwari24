@@ -1,7 +1,7 @@
 Hi 👋 My name is Arrpit Tiwari
 ==============================
 
-Full Stack Developer at Silverseven Enterprises
+Software Engineer
 -----------------------------------
 
 * 🌍  I'm based in India
