@@ -1,11 +1,4 @@
-<style>
-body {
-    background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI1Ymdkbm5udmZ5emVxazdsYTVsZTZxbmU3ZzEwd3I3NXRkZzk3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-</style>
+
 
 Hi 👋 My name is Arrpit Tiwari
 ==============================
